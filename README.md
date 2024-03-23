@@ -4,7 +4,7 @@
 
 <h3>Things I code with</h3>
 
-<ul>
+<ul style="'display':'flex'">
 <li><img width="20" alt="aws" src="/icon/aws.svg" /> aws </li>
 <li><img width="20" alt="docker" src="/icon/docker.svg" /> docker </li>
 <li><img width="20" alt="git" src="/icon/git.svg" /> git </li>
