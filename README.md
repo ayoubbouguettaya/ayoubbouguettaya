@@ -35,7 +35,9 @@ It's ayoub , I build full stack application for the web ,  I have shifted my foc
 - [cms with version control features](https://github.com/ayoubbouguettaya/cms-with-version-control-features) this project i build to illustrate another use case of git outside the code collaboration. I have recorded the building process on Youtube .
 
 <h3>Links</h3>
-
--  [<img width="30" alt="personal blog" src="/icon/firefox.svg" />](https://foobarz.blog) My Personal Blog 
--  [<img width="30" alt="youtube" src="/icon/youtube.png" />](https://youtube.com/foobarz-coding) My Youtube channel
--  [<img width="30" alt="linkedin" src="/icon/linkedin.png" />](https://linkedin.com/in/ayoub-bouguettaya) Linkedin
+<p>
+  
+ [<img width="30" alt="personal blog" src="/icon/firefox.svg" />](https://foobarz.blog) 
+ [<img width="30" alt="youtube" src="/icon/youtube.png" />](https://youtube.com/foobarz-coding)
+  [<img width="30" alt="linkedin" src="/icon/linkedin.png" />](https://linkedin.com/in/ayoub-bouguettaya) 
+</p>
