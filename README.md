@@ -28,16 +28,14 @@ It's ayoub , I build full stack application for the web ,  I have shifted my foc
 <img width="30" alt="ubuntu" src="/icon/ubuntu.svg" /> 
 </p>
 
-<h3>some Fun Project </h3>
+<h3>Some Fun Project </h3>
 
-<ul>
-- [chessgame](https://github.com/ayoubbouguettaya/chessgame) 
-- [my-journal](https://github.com/ayoubbouguettaya/my-journal) 
-- [cms-with-version-control-features](https://github.com/ayoubbouguettaya/cms-with-version-control-features) 
-
-</ul>
+- [chessgame](https://github.com/ayoubbouguettaya/chessgame) for the love of building cool staff (proud of the project i have learn some much in the building process )
+- [my journal](https://github.com/ayoubbouguettaya/my-journal) I was just messing arround and i created an minimalistic app that i use for journalig and taking note.
+- [cms with version control features](https://github.com/ayoubbouguettaya/cms-with-version-control-features) this project i build to illustrate another use case of git outside the code collaboration. I have recorded the building process on Youtube .
 
 <h3>Links</h3>
+
 -  [<img width="30" alt="personal blog" src="/icon/firefox.svg" />](https://foobarz.blog) 
 -  [<img width="30" alt="youtube" src="/icon/youtube.png" />](https://youtube.com/foobarz-coding) 
 -  [<img width="30" alt="linkedin" src="/icon/linkedin.png" />](https://linkedin.com/in/ayoub-bouguettaya)
