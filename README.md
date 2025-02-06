@@ -37,7 +37,6 @@ It's ayoub , I build full stack application for the web ,  I have shifted my foc
 <h3>Links</h3>
 <p>
   
- [<img width="30" alt="personal blog" src="/icon/firefox.svg" />](https://foobarz.blog) 
- [<img width="30" alt="youtube" src="/icon/youtube.png" />](https://youtube.com/foobarz-coding)
+ [<img width="30" alt="youtube" src="/icon/youtube.png" />](https://youtube.com/@ayoubb-dev)
   [<img width="30" alt="linkedin" src="/icon/linkedin.png" />](https://linkedin.com/in/ayoub-bouguettaya) 
 </p>
