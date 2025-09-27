@@ -1,10 +1,4 @@
-<h1>Hi ! </h1>
-
-<p>
-It's ayoub , I build full stack application for the web ,  I have shifted my focus to learn more about the backend engineering, including cloud technologies , databases and system design.
-</p>
-
-<h3>Things I code with</h3>
+<h3>My tech Stack</h3>
 
 <p  >
 <img width="40" alt="nodejs" src="/icon/nodejs.svg" /> 
@@ -28,15 +22,8 @@ It's ayoub , I build full stack application for the web ,  I have shifted my foc
 <img width="30" alt="ubuntu" src="/icon/ubuntu.svg" /> 
 </p>
 
-<h3>Some Fun Project </h3>
-
-- [chessgame](https://github.com/ayoubbouguettaya/chessgame) for the love of building cool staff (proud of the project i have learn some much in the building process )
-- [my journal](https://github.com/ayoubbouguettaya/my-journal) I was just messing arround and i created an minimalistic app that i use for journalig and taking note.
-- [cms with version control features](https://github.com/ayoubbouguettaya/cms-with-version-control-features) this project i build to illustrate another use case of git outside the code collaboration. I have recorded the building process on Youtube .
-
-<h3>Links</h3>
-<p>
-  
+<h3>Building in Public Terranz.io </h3>
+<p>  
  [<img width="30" alt="youtube" src="/icon/youtube.png" />](https://youtube.com/@ayoubb-dev)
   [<img width="30" alt="linkedin" src="/icon/linkedin.png" />](https://linkedin.com/in/ayoub-bouguettaya) 
 </p>
