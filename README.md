@@ -22,7 +22,7 @@
 <img width="30" alt="ubuntu" src="/icon/ubuntu.svg" /> 
 </p>
 
-<h3>Building in Public Terranz.io </h3>
+<h3> Currently Building in Public | Terranz.io </h3>
 <p>  
  [<img width="30" alt="youtube" src="/icon/youtube.png" />](https://youtube.com/@ayoubb-dev)
   [<img width="30" alt="linkedin" src="/icon/linkedin.png" />](https://linkedin.com/in/ayoub-bouguettaya) 
