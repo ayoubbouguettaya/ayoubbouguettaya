@@ -24,6 +24,10 @@
 
 <h3> Currently Building in Public | Terranz.io </h3>
 <p>  
- [<img width="30" alt="youtube" src="/icon/youtube.png" />](https://youtube.com/@ayoubb-dev)
-  [<img width="30" alt="linkedin" src="/icon/linkedin.png" />](https://linkedin.com/in/ayoub-bouguettaya) 
+ <a href="https://youtube.com/@ayoubb-dev">
+  <img src="/icon/youtube.png" alt="youtube" width="30" />
+</a>
+<a href="https://linkedin.com/in/ayoub-bouguettaya">
+  <img src="/icon/linkedin.png" alt="linkedin" width="30" />
+</a>
 </p>
