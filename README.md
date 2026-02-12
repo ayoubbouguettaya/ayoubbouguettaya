@@ -21,8 +21,6 @@
 <img width="30" alt="redis" src="/icon/redis.svg" /> 
 <img width="30" alt="ubuntu" src="/icon/ubuntu.svg" /> 
 </p>
-
-<h3> Currently Building in Public | Terranz.io </h3>
 <p>  
  <a href="https://youtube.com/@ayoubb-dev">
   <img src="/icon/youtube.png" alt="youtube" width="30" />
