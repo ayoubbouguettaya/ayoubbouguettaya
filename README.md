@@ -1,6 +1,7 @@
 <h3>My tech Stack</h3>
 
 <p  >
+ <img width="40"  alt="golang" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png" />
 <img width="40" alt="nodejs" src="/icon/nodejs.svg" /> 
 <img width="40" alt="react" src="/icon/react.svg" /> 
 <img width="40" alt="nestjs" src="/icon/nestjs.svg" /> 
